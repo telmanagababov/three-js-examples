@@ -1,0 +1,14 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "three-js hello-world",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tagababov",
+  "license": "MIT",
+  "dependencies": {
+    "three": "^0.83.0"
+  }
+}
